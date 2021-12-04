@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Avdhut</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 >Hi 👋, I'm Avdhut</h1>
+<h3 >A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justafolk&label=Profile%20views&color=0e75b6&style=flat" alt="justafolk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justafolk" alt="justafolk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=justafolk" alt="justafolk" /></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/just_a_folk" target="blank"><img src="https://img.shields.io/twitter/follow/just_a_folk?logo=twitter&style=for-the-badge" alt="just_a_folk" /></a> </p>
 
