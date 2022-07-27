@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justafolk&label=Profile%20views&color=0e75b6&style=flat" alt="justafolk" /> </p>
 
-- 👨‍💻 All of my projects are available at [justafolk.us](justafolk.us)
+- 👨‍💻 All of my projects are available at [justafolk.us](https://justafolk.us)
 
 - 💬 Ask me about **Python, PHP**
 
