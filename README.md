@@ -14,3 +14,6 @@
 <li>💬 Ping me about <strong>python, php, web dev stuff</strong>.</li>
 <li>🎉 Fun Fact: If Jesus could walk on water, can he swim on land?</li>
 </ul>
+
+<h2>⚡️ Recent Contribution Graph</h2>
+<a href="https://github.com/justafolk"><img alt="Justafolk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justafolk&theme=xcode" /></a>
