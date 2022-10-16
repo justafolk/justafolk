@@ -1,9 +1,5 @@
----
-title: 🪴 Justafolk
-enableToc: false
----
 
-<div align="center"> <img src="./200w.gif" align="center" style="width: 33%" /> </div> 
+<div align="center"> <img src="./200w.gif" align="center" style="width: 100%" /> </div> 
 
 # <div align="center"> I'm Avdhut, a Student Developer 👨‍💻 and just another random Google page 2 surfer🚀</div> 
 
