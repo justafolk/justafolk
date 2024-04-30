@@ -1,8 +1,9 @@
+<div align = "center">
+
 <h2>Hey 👋, I'm <a href="https://justafolk.github.io/">Avdhut</a></h2>
 
 ### अवधुत / ਅਵਧੁਤ / アヴドゥット / 阿夫杜特
 
-<img align="right" src="./200w.gif" />
 <p>I'm a student developer pursuing my Bachelors in Computer Engineering at <br/> <strong><a href=""> COEP (College of Engineering, Pune) </a> </strong>. I'm passionate about building software solutions and exploring new technologies.</p>
 
 > "What I cannot create, I do not understand."
@@ -17,4 +18,4 @@
 <a href="https://github.com/justafolk"><img alt="Avdhut's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justafolk&theme=xcode" /></a>
 -->
 
-
+</div>
