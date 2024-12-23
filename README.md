@@ -18,4 +18,5 @@
 <a href="https://github.com/justafolk"><img alt="Avdhut's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justafolk&theme=xcode" /></a>
 -->
 
+https://peps.python.org/pep-0020/
 </div>
